@@ -42,7 +42,7 @@ Grant Dev Center access to an Azure AD registered program by going to: 'Partner 
 * Instructions gotten from: https://docs.microsoft.com/en-us/windows/uwp/monetize/access-analytics-data-using-windows-store-services (Step 1: Complete prerequisites for using the Microsoft Store analytics API)
 
 Which allowed me to see: 
-* Tenant ID: <your Azure AD Tenant (directory) ID here.
+* Tenant ID: <your Azure AD Tenant (directory) ID here.>
 * Client ID:  <your Azure AD registered program Dev Center ID>
 * Reply URL: <defined on your Azure AD registered program>
 * App ID URI: <defined on your Azure AD registered program>
