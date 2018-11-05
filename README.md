@@ -1,2 +1,3 @@
-# MSFTDevCenterGetAppInfo
-Slightly modified version of MSFT Code Example of to Get Info About Some or All Store Apps
+# Spike-MSFTStoreApi
+
+Experiments with the MSFT Store API found here: https://docs.microsoft.com/en-us/windows/uwp/monetize/using-windows-store-services
