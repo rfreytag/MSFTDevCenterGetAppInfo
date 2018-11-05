@@ -26,6 +26,7 @@ namespace MSFTDevCenterGetAppInfo
         /// <summary>
         /// Get a full listing of all applications in the permitting Dev Center.
         /// </summary>
+        /// <return>void</return>
         /// <remarks>
         /// Relevant documentation: https://docs.microsoft.com/en-us/windows/uwp/monetize/get-all-apps
         /// </remarks>
@@ -67,6 +68,7 @@ namespace MSFTDevCenterGetAppInfo
         /// </summary>
         /// <param name="pSkip">The number of Dev Center applications to skip before returning the next application's information.</param>
         /// <param name="pTop">The number of Dev Center applications to return after the number of application entries skipped.</param>
+        /// <return>void</return>
         /// <remarks>
         /// Relevant documentation: https://docs.microsoft.com/en-us/windows/uwp/monetize/get-all-apps
         /// </remarks>
