@@ -6,8 +6,11 @@ The API documentation starts here: https://docs.microsoft.com/en-us/windows/uwp/
 
 This repository exposes a bug in the ['get all' or 'get specific range' MSFT Dev Center Store API](https://docs.microsoft.com/en-us/windows/uwp/monetize/get-all-apps) as documented.  Neither the 'get all' or 'get specific range' will return more than the first 10 store apps.  
 
-### Required values
-* Azure AD Tenant (Directory ID)
+### Required Values and Services ##
+
+* [Dev Center account](https://developer.microsoft.com/en-us/windows) with more than 10 published applications.
+
+* Azure AD Tenant (Di)rectory ID)
 * Client ID of the Azure AD registered program permitted access through the Dev Center
 * Client Secret (write it down!) of the Azure AD registered program permitted access through the Dev Center
 
